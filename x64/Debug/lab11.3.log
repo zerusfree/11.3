@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\visual studio labs\lab11.3\Source.cpp(55,10): warning C4101: 'student': unreferenced local variable
+D:\visual studio labs\lab11.3\Source.cpp(253,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  lab11.3.vcxproj -> D:\visual studio labs\lab11.3\x64\Debug\lab11.3.exe
